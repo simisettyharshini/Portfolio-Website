@@ -1,5 +1,5 @@
-#Introduction:
-
+# Introduction:
+## My project, the Portfolio Website, is a React.js application developed to serve as an online portfolio. It provides an overview of my background, skills, and experiences,showcasing notable projects and offering a means of contact.
 ```
 Installation
 To run this portfolio locally, follow these steps:
