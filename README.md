@@ -5,13 +5,12 @@ My project, the Portfolio Website, is a React.js application developed to serve 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Features:
 
-```
+
  - About Me: Overview of background, skills, and experiences.
  - Projects: Collection of notable projects with descriptions, screenshots, and links.
  - Skills: List of technical skills and proficiencies.
  - Resume: Link to download the resume.
  - Contact: Form for sending messages or inquiries.
-```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 Installation
