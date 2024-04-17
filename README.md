@@ -12,8 +12,9 @@ My project, the Portfolio Website, is a React.js application developed to serve 
  - Resume: Link to download the resume.
  - Contact: Form for sending messages or inquiries.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Installation
-To run this portfolio locally, follow these steps:
+## Installation
+
+  ### To run this portfolio locally, follow these steps:
 
 - Clone the repository: git clone https://github.com/simisettyharshini/Personal-Portfolio.git
 - Navigate to the project directory: cd personal-portfolio
